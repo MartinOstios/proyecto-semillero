@@ -1,0 +1,14 @@
+.caja-info{
+    position: relative;
+    height: 750px;
+    border: 1px;
+    border-style: solid;
+    padding: 15px;
+}
+
+.caja-texto{
+    position: relative;
+    height: 700px;
+    overflow-y: scroll;
+}
+
